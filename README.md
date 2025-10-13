@@ -1,2 +1,2 @@
 # Databricks_ETL
-Record all the ETL pipelines on databrciks
+Record all the ETL pipelines on databricks
